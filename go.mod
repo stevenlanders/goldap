@@ -1,4 +1,4 @@
-module github.com/Ouest-France/goldap
+module github.com/stevenlanders/goldap
 
 go 1.13
 
